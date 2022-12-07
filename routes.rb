@@ -4,11 +4,11 @@ require 'csv'
 require_relative 'helpers'
 require_relative 'models/pokenarc'
 
-if ENV["DEVMODE"] == "TRUE"
-	require 'pry'
-	require "sinatra/reloader"
-	require 'benchmark'
-end
+# if ENV["DEVMODE"] == "TRUE"
+# 	require 'pry'
+# 	require "sinatra/reloader"
+# 	require 'benchmark'
+# end
 
 
 Dir["models/*.rb"].each {|file| require_relative file}
@@ -71,9 +71,9 @@ post '/extract' do
 
 
 
-	system "python python/header_loader.py #{params['rom_name']}"
+	system "py python/header_loader.py #{params['rom_name']}"
 
-	command = "python python/rom_loader.py #{params['rom_name']}"
+	command = "py python/rom_loader.py #{params['rom_name']}"
 	pid = spawn command
 	Process.detach(pid)
 
@@ -86,7 +86,7 @@ post '/extract' do
 end
 
 post '/rom/save' do
-	system "python python/rom_saver.py #{$rom_name}"
+	system "py python/rom_saver.py #{$rom_name}"
 	
 	return "200"
 end
@@ -162,7 +162,7 @@ post '/update' do
 		narc_name = 'grotto_odds'
 	end
 	
-	command = "python python/#{narc_name}_writer.py update #{params['data']['file_name']} #{params['data']['narc']}"
+	command = "py python/#{narc_name}_writer.py update #{params['data']['file_name']} #{params['data']['narc']}"
 	p params['data']
 
 	pid = spawn command
@@ -271,7 +271,7 @@ post '/batch_update' do
 	
 	Object.const_get(narc_name.capitalize).write_data params["data"], true
 	
-	command = "python python/#{narc_name}_writer.py update #{params['data']['file_names'].join(',')} "
+	command = "py python/#{narc_name}_writer.py update #{params['data']['file_names'].join(',')} "
 	pid = spawn command
 	Process.detach(pid)
 
@@ -422,7 +422,7 @@ post '/batch_update' do
 	
 	Object.const_get(narc_name.capitalize).write_data params["data"], true
 	
-	command = "python python/#{narc_name}_writer.py update #{params['data']['file_names'].join(',')} "
+	command = "py python/#{narc_name}_writer.py update #{params['data']['file_names'].join(',')} "
 	pid = spawn command
 	Process.detach(pid)
 

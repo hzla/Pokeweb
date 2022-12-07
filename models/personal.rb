@@ -237,7 +237,7 @@ class Personal
 			data["narc"] = "personal"
 			write_data(data)
 
-			command = "python python/personal_writer.py update #{pok["index"]} personal"
+			command = "py python/personal_writer.py update #{pok["index"]} personal"
 			pid = spawn command
 			Process.detach(pid)
 		end
