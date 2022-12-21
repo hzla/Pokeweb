@@ -41,6 +41,8 @@ def output_narc(rom):
                 bank_bin = open(f'{ROM_NAME}/{narc_name}/{bank_id}.bin', "rb").read()
                 narc.files[bank_id] = bank_bin
 
+        rom.files[NARC_FILE_IDS[narc_name]] = narc.save()
+
     ######## SCRIPTS ###########
 
     narc = ndspy.narc.NARC(rom.files[NARC_FILE_IDS["scripts"]])
@@ -58,7 +60,8 @@ def output_narc(rom):
     if REPLACE_TR_SCRIPT and BASE_ROM == "BW2":
         bank_bin = open(f'Reference_Files/1239.bin', "rb").read()
         narc.files[1239] = bank_bin
-        rom.files[NARC_FILE_IDS["scripts"]] = narc.save()
+    
+    rom.files[NARC_FILE_IDS["scripts"]] = narc.save()
 
     return rom
 
