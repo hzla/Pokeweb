@@ -352,6 +352,12 @@ get '/trpoks/moves/:trpok_id/:pok_index' do
 
 end
 
+post '/delete' do 
+	narc_name = params['data']['narc']
+	created = Object.const_get(narc_name.capitalize).delete params["data"]
+	return 200
+end
+
 
 post '/batch_update' do 
 	narc_name = params['data']['narc']
