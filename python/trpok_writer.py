@@ -80,9 +80,16 @@ def output_narc(rom, narc_name="trpok"):
 	# ndspy copy of narcfile to edit
 	narc = ndspy.narc.NARC.fromFile(narcfile_path)
 
-	for f in json_files:
-		file_name = int(f.split(".")[0])
-		write_narc_data(file_name, NARC_FORMATS, narc, narc_name)
+	for idx, f in enumerate(json_files):
+		
+		try:
+			if f.endswith(".json")
+			file_name = int(f.split(".")[0])
+			write_narc_data(file_name, NARC_FORMATS, narc, narc_name)
+		except:
+			file_name = int(f.split(".")[0])
+			print(f"error writing trpok {file_name}, index {idx}")
+			continue
 
 	rom.files[NARC_FILE_ID] = narc.save()
 	print("trpok narc saved")
@@ -169,18 +176,18 @@ def to_raw(readable, template):
 			raw[f'ability_{n}'] += GENDERS.index(readable[f'gender_{n}'])
 
 
-			if template == 1 or template == 3:
-				for m in range(1,5):
-					if f'move_{m}_{n}' in readable:
-						raw[f'move_{m}_{n}'] = MOVES.index(readable[f'move_{m}_{n}'])
-					else: 
-						raw[f'move_{m}_{n}'] = 0
+			# if template == 1 or template == 3:
+			for m in range(1,5):
+				if f'move_{m}_{n}' in readable:
+					raw[f'move_{m}_{n}'] = MOVES.index(readable[f'move_{m}_{n}'])
+				else: 
+					raw[f'move_{m}_{n}'] = 0
 
-			if template > 1:
-				if f'item_id_{n}' in readable:
-					raw[f'item_id_{n}'] = ITEMS.index(readable[f'item_id_{n}'].replace("Ã\x83Â©","é").replace('Ã©', 'é'))
-				else:
-					raw[f'item_id_{n}'] = 0
+			# if template > 1:
+			if f'item_id_{n}' in readable:
+				raw[f'item_id_{n}'] = ITEMS.index(readable[f'item_id_{n}'].replace("Ã\x83Â©","é").replace('Ã©', 'é'))
+			else:
+				raw[f'item_id_{n}'] = 0
 
 			n += 1
 
