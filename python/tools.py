@@ -28,8 +28,9 @@ def output_narc(narc_name, rom):
 	narc = ndspy.narc.NARC(rom.files[NARC_FILE_ID])
 
 	for f in json_files:
-		file_name = int(f.split(".")[0])
-		write_narc_data(file_name, rom_data.NARC_FORMATS[narc_name], narc, narc_name, NARC_FILE_ID)
+		if f.endswith('.json'):
+			file_name = int(f.split(".")[0])
+			write_narc_data(file_name, rom_data.NARC_FORMATS[narc_name], narc, narc_name, NARC_FILE_ID)
 	
 	rom.files[NARC_FILE_ID] = narc.save()
 	print("narc saved")
