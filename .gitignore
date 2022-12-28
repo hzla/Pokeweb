@@ -12,7 +12,7 @@ logs.txt
 /public/dist/*.js
 *.zip
 .DS_Store
-*.bin
+/*.bin
 *.xdelta
 /documentation/*.txt
 *.o
