@@ -49,6 +49,7 @@ def write_narc_data(file_name, narc_format, narc, narc_name, narc_file_id):
 		for entry in narc_format: 
 			if entry[1] in json_data["raw"]:
 				data = json_data["raw"][entry[1]]
+
 				write_bytes(stream, entry[0], data)
 
 		# add terminator bytes for learnsets

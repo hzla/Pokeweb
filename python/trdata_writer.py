@@ -37,8 +37,9 @@ def to_raw(readable):
 	rom_data.AIS.reverse()
 	
 	for prop in rom_data.AIS:
+		# code.interact(local=dict(globals(), **locals()))
 		binary_props += bin(readable[prop])[2:].zfill(1)
-	raw["ais"] = int(binary_props, 2)
+	raw["ai"] = int(binary_props, 2)
 
 	return raw
 	
