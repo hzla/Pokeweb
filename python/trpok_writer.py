@@ -83,9 +83,9 @@ def output_narc(rom, narc_name="trpok"):
 	for idx, f in enumerate(json_files):
 		
 		try:
-			if f.endswith(".json")
-			file_name = int(f.split(".")[0])
-			write_narc_data(file_name, NARC_FORMATS, narc, narc_name)
+			if f.endswith(".json"):
+				file_name = int(f.split(".")[0])
+				write_narc_data(file_name, NARC_FORMATS, narc, narc_name)
 		except:
 			file_name = int(f.split(".")[0])
 			print(f"error writing trpok {file_name}, index {idx}")
