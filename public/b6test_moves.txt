@@ -1,0 +1,2735 @@
+===================
+Water Sport
+===================
+(Old)
+0  BP || 101 ACC || Status || Water || 15 PP
+Effect: 1/3 damage dealt recoil
+
+(New)
+0  BP || 101 ACC || Status || Water || 15 PP
+Effect: Weakens Fire-type moves by 50% until user switches out
+
+===================
+Filler 0
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 1
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 2
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 3
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 4
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 5
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 6
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 7
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 8
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 9
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 10
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 11
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 12
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 13
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 14
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 15
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 16
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 17
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 18
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 19
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 20
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 21
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 22
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 23
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 24
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 25
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 26
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 27
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 28
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 29
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 30
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 31
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 32
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 33
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 34
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 35
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 36
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 37
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 38
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 39
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 40
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 41
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 42
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 43
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 44
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 45
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 46
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 47
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 48
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 49
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 50
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 51
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 52
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 53
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 54
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 55
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 56
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 57
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 58
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 59
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 60
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 61
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 62
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 63
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 64
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 65
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 66
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 67
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 68
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 69
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 70
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 71
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 72
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 73
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 74
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 75
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 76
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 77
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 78
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 79
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 80
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 81
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 82
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 83
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 84
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 85
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 86
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 87
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 88
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 89
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 90
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 91
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 92
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 93
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 94
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 95
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 96
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 97
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 98
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 99
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 100
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 101
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 102
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 103
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 104
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 105
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 106
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 107
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 108
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 109
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 110
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 111
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 112
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 113
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Filler 114
+===================
+0  BP || 0 ACC || Status || Normal || 0 PP
+Effect: None
+
+===================
+Flying Press
+===================
+100  BP || 95 ACC || Physical || Fighting || 10 PP
+Effect: None
+
+===================
+Mat Block
+===================
+0  BP || 101 ACC || Status || Fighting || 10 PP
+Effect: None
+
+===================
+Belch
+===================
+120  BP || 90 ACC || Special || Poison || 10 PP
+Effect: None
+
+===================
+Rototiller
+===================
+0  BP || 101 ACC || Status || Ground || 10 PP
+Effect: None
+
+===================
+Sticky Web
+===================
+0  BP || 101 ACC || Status || Bug || 20 PP
+Effect: None
+
+===================
+Fell Stinger
+===================
+50  BP || 100 ACC || Physical || Bug || 25 PP
+Effect: None
+
+===================
+Phantom Force
+===================
+90  BP || 100 ACC || Physical || Ghost || 10 PP
+Effect: None
+
+===================
+Trick-Or-Treat
+===================
+0  BP || 100 ACC || Status || Ghost || 20 PP
+Effect: None
+
+===================
+Noble Roar
+===================
+0  BP || 100 ACC || Status || Normal || 30 PP
+Effect: None
+
+===================
+Ion Deluge
+===================
+0  BP || 101 ACC || Status || Electric || 25 PP
+Effect: None
+
+===================
+Parabolic Charge
+===================
+65  BP || 100 ACC || Special || Electric || 20 PP
+Effect: None
+
+===================
+Forests Curse
+===================
+0  BP || 100 ACC || Status || Grass || 20 PP
+Effect: None
+
+===================
+Petal Blizzard
+===================
+90  BP || 100 ACC || Physical || Grass || 15 PP
+Effect: None
+
+===================
+Freeze-Dry
+===================
+70  BP || 100 ACC || Special || Ice || 20 PP
+Effect: Chance to Freeze
+
+===================
+Disarming Voice
+===================
+40  BP || 101 ACC || Special || Fairy || 15 PP
+Effect: None
+
+===================
+Parting Shot
+===================
+0  BP || 100 ACC || Status || Dark || 20 PP
+Effect: None
+
+===================
+Topsy-Turvy
+===================
+0  BP || 101 ACC || Status || Dark || 20 PP
+Effect: None
+
+===================
+Draining Kiss
+===================
+50  BP || 100 ACC || Special || Fairy || 10 PP
+Effect: None
+
+===================
+Crafty Shield
+===================
+0  BP || 101 ACC || Status || Fairy || 10 PP
+Effect: None
+
+===================
+Flower Shield
+===================
+0  BP || 101 ACC || Status || Fairy || 10 PP
+Effect: None
+
+===================
+Grassy Terrain
+===================
+0  BP || 101 ACC || Status || Grass || 10 PP
+Effect: None
+
+===================
+Misty Terrain
+===================
+0  BP || 101 ACC || Status || Fairy || 10 PP
+Effect: None
+
+===================
+Electrify
+===================
+0  BP || 101 ACC || Status || Electric || 20 PP
+Effect: None
+
+===================
+Play Rough
+===================
+90  BP || 90 ACC || Physical || Fairy || 10 PP
+Effect: None
+
+===================
+Fairy Wind
+===================
+40  BP || 100 ACC || Special || Fairy || 30 PP
+Effect: None
+
+===================
+Moonblast
+===================
+95  BP || 100 ACC || Special || Fairy || 15 PP
+Effect: None
+
+===================
+Boomburst
+===================
+140  BP || 100 ACC || Special || Normal || 10 PP
+Effect: None
+
+===================
+Fairy Lock
+===================
+0  BP || 101 ACC || Status || Fairy || 10 PP
+Effect: None
+
+===================
+Kings Shield
+===================
+0  BP || 101 ACC || Status || Steel || 10 PP
+Effect: None
+
+===================
+Play Nice
+===================
+0  BP || 101 ACC || Status || Normal || 20 PP
+Effect: None
+
+===================
+Confide
+===================
+0  BP || 101 ACC || Status || Normal || 20 PP
+Effect: None
+
+===================
+Diamond Storm
+===================
+100  BP || 95 ACC || Physical || Rock || 5 PP
+Effect: None
+
+===================
+Steam Eruption
+===================
+110  BP || 95 ACC || Special || Water || 5 PP
+Effect: Chance to Burn
+
+===================
+Hyperspace Hole
+===================
+80  BP || 101 ACC || Special || Psychic || 5 PP
+Effect: None
+
+===================
+Water Shuriken
+===================
+15  BP || 100 ACC || Special || Water || 20 PP
+Effect: None
+
+===================
+Mystical Fire
+===================
+75  BP || 100 ACC || Special || Fire || 10 PP
+Effect: None
+
+===================
+Spiky Shield
+===================
+0  BP || 101 ACC || Status || Grass || 10 PP
+Effect: None
+
+===================
+Aromatic Mist
+===================
+0  BP || 101 ACC || Status || Fairy || 20 PP
+Effect: None
+
+===================
+Eerie Impulse
+===================
+0  BP || 100 ACC || Status || Electric || 15 PP
+Effect: None
+
+===================
+Venom Drench
+===================
+0  BP || 100 ACC || Status || Poison || 20 PP
+Effect: None
+
+===================
+Powder
+===================
+0  BP || 100 ACC || Status || Bug || 20 PP
+Effect: None
+
+===================
+Geomancy
+===================
+0  BP || 101 ACC || Status || Fairy || 10 PP
+Effect: None
+
+===================
+Magnetic Flux
+===================
+0  BP || 101 ACC || Status || Electric || 20 PP
+Effect: None
+
+===================
+Happy Hour
+===================
+0  BP || 101 ACC || Status || Normal || 30 PP
+Effect: None
+
+===================
+Electric Terrain
+===================
+0  BP || 101 ACC || Status || Electric || 10 PP
+Effect: None
+
+===================
+Dazzling Gleam
+===================
+80  BP || 100 ACC || Special || Fairy || 10 PP
+Effect: None
+
+===================
+Celebrate
+===================
+0  BP || 101 ACC || Status || Normal || 40 PP
+Effect: None
+
+===================
+Hold Hands
+===================
+0  BP || 101 ACC || Status || Normal || 40 PP
+Effect: None
+
+===================
+Baby-Doll Eyes
+===================
+0  BP || 100 ACC || Status || Fairy || 30 PP
+Effect: None
+
+===================
+Nuzzle
+===================
+20  BP || 100 ACC || Physical || Electric || 20 PP
+Effect: Chance to Paralyze
+
+===================
+Hold Back
+===================
+40  BP || 100 ACC || Physical || Normal || 40 PP
+Effect: None
+
+===================
+Infestation
+===================
+20  BP || 100 ACC || Special || Bug || 20 PP
+Effect: None
+
+===================
+Power-Up Punch
+===================
+40  BP || 100 ACC || Physical || Fighting || 20 PP
+Effect: None
+
+===================
+Oblivion Wing
+===================
+80  BP || 100 ACC || Special || Flying || 10 PP
+Effect: None
+
+===================
+Thousand Arrows
+===================
+90  BP || 100 ACC || Physical || Ground || 10 PP
+Effect: None
+
+===================
+Thousand Waves
+===================
+90  BP || 100 ACC || Physical || Ground || 10 PP
+Effect: None
+
+===================
+Lands Wrath
+===================
+90  BP || 100 ACC || Physical || Ground || 10 PP
+Effect: None
+
+===================
+Light Of Ruin
+===================
+140  BP || 90 ACC || Special || Fairy || 5 PP
+Effect: None
+
+===================
+Origin Pulse
+===================
+110  BP || 85 ACC || Special || Water || 10 PP
+Effect: None
+
+===================
+Precipice Blades
+===================
+120  BP || 85 ACC || Physical || Ground || 10 PP
+Effect: None
+
+===================
+Dragon Ascent
+===================
+120  BP || 100 ACC || Physical || Flying || 5 PP
+Effect: None
+
+===================
+Hyperspace Fury
+===================
+100  BP || 101 ACC || Physical || Dark || 5 PP
+Effect: None
+
+===================
+Breakneck Blitz
+===================
+0  BP || 101 ACC || Physical || Normal || 1 PP
+Effect: None
+
+===================
+Breakneck Blitz
+===================
+0  BP || 101 ACC || Special || Normal || 1 PP
+Effect: None
+
+===================
+All-Out Pummeling
+===================
+0  BP || 101 ACC || Physical || Fighting || 1 PP
+Effect: None
+
+===================
+All-Out Pummeling
+===================
+0  BP || 101 ACC || Special || Fighting || 1 PP
+Effect: None
+
+===================
+Supersonic Skystrike
+===================
+0  BP || 101 ACC || Physical || Flying || 1 PP
+Effect: None
+
+===================
+Supersonic Skystrike
+===================
+0  BP || 101 ACC || Special || Flying || 1 PP
+Effect: None
+
+===================
+Acid Downpour
+===================
+0  BP || 101 ACC || Physical || Poison || 1 PP
+Effect: None
+
+===================
+Acid Downpour
+===================
+0  BP || 101 ACC || Special || Poison || 1 PP
+Effect: None
+
+===================
+Tectonic Rage
+===================
+0  BP || 101 ACC || Physical || Ground || 1 PP
+Effect: None
+
+===================
+Tectonic Rage
+===================
+0  BP || 101 ACC || Special || Ground || 1 PP
+Effect: None
+
+===================
+Continental Crush
+===================
+0  BP || 101 ACC || Physical || Rock || 1 PP
+Effect: None
+
+===================
+Continental Crush
+===================
+0  BP || 101 ACC || Special || Rock || 1 PP
+Effect: None
+
+===================
+Savage Spin-Out
+===================
+0  BP || 101 ACC || Physical || Bug || 1 PP
+Effect: None
+
+===================
+Savage Spin-Out
+===================
+0  BP || 101 ACC || Special || Bug || 1 PP
+Effect: None
+
+===================
+Never-Ending Nightmare
+===================
+0  BP || 101 ACC || Physical || Ghost || 1 PP
+Effect: None
+
+===================
+Never-Ending Nightmare
+===================
+0  BP || 101 ACC || Special || Ghost || 1 PP
+Effect: None
+
+===================
+Corkscrew Crash
+===================
+0  BP || 101 ACC || Physical || Steel || 1 PP
+Effect: None
+
+===================
+Corkscrew Crash
+===================
+0  BP || 101 ACC || Special || Steel || 1 PP
+Effect: None
+
+===================
+Inferno Overdrive
+===================
+0  BP || 101 ACC || Physical || Fire || 1 PP
+Effect: None
+
+===================
+Inferno Overdrive
+===================
+0  BP || 101 ACC || Special || Fire || 1 PP
+Effect: None
+
+===================
+Hydro Vortex
+===================
+0  BP || 101 ACC || Physical || Water || 1 PP
+Effect: None
+
+===================
+Hydro Vortex
+===================
+0  BP || 101 ACC || Special || Water || 1 PP
+Effect: None
+
+===================
+Bloom Doom
+===================
+0  BP || 101 ACC || Physical || Grass || 1 PP
+Effect: None
+
+===================
+Bloom Doom
+===================
+0  BP || 101 ACC || Special || Grass || 1 PP
+Effect: None
+
+===================
+Gigavolt Havoc
+===================
+0  BP || 101 ACC || Physical || Electric || 1 PP
+Effect: None
+
+===================
+Gigavolt Havoc
+===================
+0  BP || 101 ACC || Special || Electric || 1 PP
+Effect: None
+
+===================
+Shattered Psyche
+===================
+0  BP || 101 ACC || Physical || Psychic || 1 PP
+Effect: None
+
+===================
+Shattered Psyche
+===================
+0  BP || 101 ACC || Special || Psychic || 1 PP
+Effect: None
+
+===================
+Subzero Slammer
+===================
+0  BP || 101 ACC || Physical || Ice || 1 PP
+Effect: None
+
+===================
+Subzero Slammer
+===================
+0  BP || 101 ACC || Special || Ice || 1 PP
+Effect: None
+
+===================
+Devastating Drake
+===================
+0  BP || 101 ACC || Physical || Dragon || 1 PP
+Effect: None
+
+===================
+Devastating Drake
+===================
+0  BP || 101 ACC || Special || Dragon || 1 PP
+Effect: None
+
+===================
+Black Hole Eclipse
+===================
+0  BP || 101 ACC || Physical || Dark || 1 PP
+Effect: None
+
+===================
+Black Hole Eclipse
+===================
+0  BP || 101 ACC || Special || Dark || 1 PP
+Effect: None
+
+===================
+Twinkle Tackle
+===================
+0  BP || 101 ACC || Physical || Fairy || 1 PP
+Effect: None
+
+===================
+Twinkle Tackle
+===================
+0  BP || 101 ACC || Special || Fairy || 1 PP
+Effect: None
+
+===================
+Catastropika
+===================
+210  BP || 101 ACC || Physical || Electric || 1 PP
+Effect: None
+
+===================
+Shore Up
+===================
+0  BP || 101 ACC || Status || Ground || 5 PP
+Effect: None
+
+===================
+First Impression
+===================
+90  BP || 100 ACC || Physical || Bug || 10 PP
+Effect: None
+
+===================
+Baneful Bunker
+===================
+0  BP || 101 ACC || Status || Poison || 10 PP
+Effect: None
+
+===================
+Spirit Shackle
+===================
+80  BP || 100 ACC || Physical || Ghost || 10 PP
+Effect: None
+
+===================
+Darkest Lariat
+===================
+85  BP || 100 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Sparkling Aria
+===================
+90  BP || 100 ACC || Special || Water || 10 PP
+Effect: None
+
+===================
+Ice Hammer
+===================
+100  BP || 90 ACC || Physical || Ice || 10 PP
+Effect: None
+
+===================
+Floral Healing
+===================
+0  BP || 101 ACC || Status || Fairy || 10 PP
+Effect: None
+
+===================
+High Horsepower
+===================
+95  BP || 95 ACC || Physical || Ground || 10 PP
+Effect: None
+
+===================
+Strength Sap
+===================
+0  BP || 100 ACC || Status || Grass || 10 PP
+Effect: None
+
+===================
+Solar Blade
+===================
+125  BP || 100 ACC || Physical || Grass || 10 PP
+Effect: None
+
+===================
+Leafage
+===================
+40  BP || 100 ACC || Physical || Grass || 40 PP
+Effect: None
+
+===================
+Spotlight
+===================
+0  BP || 101 ACC || Status || Normal || 15 PP
+Effect: None
+
+===================
+Toxic Thread
+===================
+0  BP || 100 ACC || Status || Poison || 20 PP
+Effect: None
+
+===================
+Laser Focus
+===================
+0  BP || 101 ACC || Status || Normal || 30 PP
+Effect: None
+
+===================
+Gear Up
+===================
+0  BP || 101 ACC || Status || Steel || 20 PP
+Effect: None
+
+===================
+Throat Chop
+===================
+80  BP || 100 ACC || Physical || Dark || 15 PP
+Effect: None
+
+===================
+Pollen Puff
+===================
+90  BP || 100 ACC || Special || Bug || 15 PP
+Effect: None
+
+===================
+Anchor Shot
+===================
+80  BP || 100 ACC || Physical || Steel || 20 PP
+Effect: None
+
+===================
+Psychic Terrain
+===================
+0  BP || 101 ACC || Status || Psychic || 10 PP
+Effect: None
+
+===================
+Lunge
+===================
+80  BP || 100 ACC || Physical || Bug || 15 PP
+Effect: None
+
+===================
+Fire Lash
+===================
+80  BP || 100 ACC || Physical || Fire || 15 PP
+Effect: None
+
+===================
+Power Trip
+===================
+20  BP || 100 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Burn Up
+===================
+130  BP || 100 ACC || Special || Fire || 5 PP
+Effect: None
+
+===================
+Speed Swap
+===================
+0  BP || 101 ACC || Status || Psychic || 10 PP
+Effect: None
+
+===================
+Smart Strike
+===================
+70  BP || 101 ACC || Physical || Steel || 10 PP
+Effect: None
+
+===================
+Purify
+===================
+0  BP || 101 ACC || Status || Poison || 20 PP
+Effect: None
+
+===================
+Revelation Dance
+===================
+90  BP || 100 ACC || Special || Normal || 15 PP
+Effect: None
+
+===================
+Core Enforcer
+===================
+100  BP || 100 ACC || Special || Dragon || 10 PP
+Effect: None
+
+===================
+Trop Kick
+===================
+70  BP || 100 ACC || Physical || Grass || 15 PP
+Effect: None
+
+===================
+Instruct
+===================
+0  BP || 101 ACC || Status || Psychic || 15 PP
+Effect: None
+
+===================
+Beak Blast
+===================
+100  BP || 100 ACC || Physical || Flying || 15 PP
+Effect: None
+
+===================
+Clanging Scales
+===================
+110  BP || 100 ACC || Special || Dragon || 5 PP
+Effect: None
+
+===================
+Dragon Hammer
+===================
+90  BP || 100 ACC || Physical || Dragon || 15 PP
+Effect: None
+
+===================
+Brutal Swing
+===================
+60  BP || 100 ACC || Physical || Dark || 20 PP
+Effect: None
+
+===================
+Aurora Veil
+===================
+0  BP || 101 ACC || Status || Ice || 20 PP
+Effect: None
+
+===================
+Sinister Arrow Raid
+===================
+180  BP || 101 ACC || Physical || Ghost || 1 PP
+Effect: None
+
+===================
+Malicious Moonsault
+===================
+180  BP || 101 ACC || Physical || Dark || 1 PP
+Effect: None
+
+===================
+Oceanic Operetta
+===================
+195  BP || 101 ACC || Special || Water || 1 PP
+Effect: None
+
+===================
+Guardian Of Alola
+===================
+0  BP || 101 ACC || Special || Fairy || 1 PP
+Effect: None
+
+===================
+Soul-Stealing 7-Star Strike
+===================
+195  BP || 101 ACC || Physical || Ghost || 1 PP
+Effect: None
+
+===================
+Stoked Sparksurfer
+===================
+175  BP || 101 ACC || Special || Electric || 1 PP
+Effect: None
+
+===================
+Pulverizing Pancake
+===================
+210  BP || 101 ACC || Physical || Normal || 1 PP
+Effect: None
+
+===================
+Extreme Evoboost
+===================
+0  BP || 101 ACC || Status || Normal || 1 PP
+Effect: None
+
+===================
+Genesis Supernova
+===================
+185  BP || 101 ACC || Special || Psychic || 1 PP
+Effect: None
+
+===================
+Shell Trap
+===================
+150  BP || 100 ACC || Special || Fire || 5 PP
+Effect: None
+
+===================
+Fleur Cannon
+===================
+130  BP || 90 ACC || Special || Fairy || 5 PP
+Effect: None
+
+===================
+Psychic Fangs
+===================
+85  BP || 100 ACC || Physical || Psychic || 10 PP
+Effect: None
+
+===================
+Stomping Tantrum
+===================
+75  BP || 100 ACC || Physical || Ground || 10 PP
+Effect: None
+
+===================
+Shadow Bone
+===================
+85  BP || 100 ACC || Physical || Ghost || 10 PP
+Effect: None
+
+===================
+Accelerock
+===================
+40  BP || 100 ACC || Physical || Rock || 20 PP
+Effect: None
+
+===================
+Liquidation
+===================
+85  BP || 100 ACC || Physical || Water || 10 PP
+Effect: None
+
+===================
+Prismatic Laser
+===================
+160  BP || 100 ACC || Special || Psychic || 10 PP
+Effect: None
+
+===================
+Spectral Thief
+===================
+90  BP || 100 ACC || Physical || Ghost || 10 PP
+Effect: None
+
+===================
+Sunsteel Strike
+===================
+100  BP || 100 ACC || Physical || Steel || 5 PP
+Effect: None
+
+===================
+Moongeist Beam
+===================
+100  BP || 100 ACC || Special || Ghost || 5 PP
+Effect: None
+
+===================
+Tearful Look
+===================
+0  BP || 101 ACC || Status || Normal || 20 PP
+Effect: None
+
+===================
+Zing Zap
+===================
+80  BP || 100 ACC || Physical || Electric || 10 PP
+Effect: None
+
+===================
+Natures Madness
+===================
+0  BP || 90 ACC || Special || Fairy || 10 PP
+Effect: None
+
+===================
+Multi-Attack
+===================
+120  BP || 100 ACC || Physical || Normal || 10 PP
+Effect: None
+
+===================
+10000000 Volt Thunderbolt
+===================
+195  BP || 101 ACC || Special || Electric || 1 PP
+Effect: None
+
+===================
+Mind Blown
+===================
+150  BP || 100 ACC || Special || Fire || 5 PP
+Effect: None
+
+===================
+Plasma Fists
+===================
+100  BP || 100 ACC || Physical || Electric || 15 PP
+Effect: None
+
+===================
+Photon Geyser
+===================
+100  BP || 100 ACC || Special || Psychic || 5 PP
+Effect: None
+
+===================
+Light That Burns The Sky
+===================
+200  BP || 101 ACC || Special || Psychic || 1 PP
+Effect: None
+
+===================
+Searing Sunraze Smash
+===================
+200  BP || 101 ACC || Physical || Steel || 1 PP
+Effect: None
+
+===================
+Menacing Moonraze Maelstrom
+===================
+200  BP || 101 ACC || Special || Ghost || 1 PP
+Effect: None
+
+===================
+Lets Snuggle Forever
+===================
+190  BP || 101 ACC || Physical || Fairy || 1 PP
+Effect: None
+
+===================
+Splintered Stormshards
+===================
+190  BP || 101 ACC || Physical || Rock || 1 PP
+Effect: None
+
+===================
+Clangorous Soulblaze
+===================
+185  BP || 101 ACC || Special || Dragon || 1 PP
+Effect: None
+
+===================
+Zippy Zap
+===================
+80  BP || 100 ACC || Physical || Electric || 10 PP
+Effect: None
+
+===================
+Splishy Splash
+===================
+90  BP || 100 ACC || Special || Water || 15 PP
+Effect: None
+
+===================
+Floaty Fall
+===================
+90  BP || 95 ACC || Physical || Flying || 15 PP
+Effect: None
+
+===================
+Pika Papow
+===================
+0  BP || 101 ACC || Special || Electric || 20 PP
+Effect: None
+
+===================
+Bouncy Bubble
+===================
+60  BP || 100 ACC || Special || Water || 20 PP
+Effect: None
+
+===================
+Buzzy Buzz
+===================
+60  BP || 100 ACC || Special || Electric || 20 PP
+Effect: None
+
+===================
+Sizzly Slide
+===================
+60  BP || 100 ACC || Physical || Fire || 20 PP
+Effect: None
+
+===================
+Glitzy Glow
+===================
+80  BP || 95 ACC || Special || Psychic || 15 PP
+Effect: None
+
+===================
+Baddy Bad
+===================
+80  BP || 95 ACC || Special || Dark || 15 PP
+Effect: None
+
+===================
+Sappy Seed
+===================
+100  BP || 90 ACC || Physical || Grass || 10 PP
+Effect: None
+
+===================
+Freezy Frost
+===================
+100  BP || 90 ACC || Special || Ice || 10 PP
+Effect: None
+
+===================
+Sparkly Swirl
+===================
+120  BP || 85 ACC || Special || Fairy || 5 PP
+Effect: None
+
+===================
+Veevee Volley
+===================
+0  BP || 101 ACC || Physical || Normal || 20 PP
+Effect: None
+
+===================
+Double Iron Bash
+===================
+60  BP || 100 ACC || Physical || Steel || 5 PP
+Effect: None
+
+===================
+Max Guard
+===================
+0  BP || 101 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Dynamax Cannon
+===================
+100  BP || 100 ACC || Special || Dragon || 5 PP
+Effect: None
+
+===================
+Snipe Shot
+===================
+80  BP || 100 ACC || Special || Water || 15 PP
+Effect: None
+
+===================
+Jaw Lock
+===================
+80  BP || 100 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Stuff Cheeks
+===================
+0  BP || 101 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+No Retreat
+===================
+0  BP || 101 ACC || Status || Fighting || 5 PP
+Effect: None
+
+===================
+Tar Shot
+===================
+0  BP || 100 ACC || Status || Rock || 15 PP
+Effect: None
+
+===================
+Magic Powder
+===================
+0  BP || 100 ACC || Status || Psychic || 20 PP
+Effect: None
+
+===================
+Dragon Darts
+===================
+50  BP || 100 ACC || Physical || Dragon || 10 PP
+Effect: None
+
+===================
+Teatime
+===================
+0  BP || 101 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Octolock
+===================
+0  BP || 100 ACC || Status || Fighting || 15 PP
+Effect: None
+
+===================
+Bolt Beak
+===================
+85  BP || 100 ACC || Physical || Electric || 10 PP
+Effect: None
+
+===================
+Fishious Rend
+===================
+85  BP || 100 ACC || Physical || Water || 10 PP
+Effect: None
+
+===================
+Court Change
+===================
+0  BP || 100 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Max Flare
+===================
+0  BP || 101 ACC || Physical || Fire || 10 PP
+Effect: None
+
+===================
+Max Flutterby
+===================
+0  BP || 101 ACC || Physical || Bug || 10 PP
+Effect: None
+
+===================
+Max Lightning
+===================
+0  BP || 101 ACC || Physical || Electric || 10 PP
+Effect: None
+
+===================
+Max Strike
+===================
+0  BP || 101 ACC || Physical || Normal || 10 PP
+Effect: None
+
+===================
+Max Knuckle
+===================
+0  BP || 101 ACC || Physical || Fighting || 10 PP
+Effect: None
+
+===================
+Max Phantasm
+===================
+0  BP || 101 ACC || Physical || Ghost || 10 PP
+Effect: None
+
+===================
+Max Hailstorm
+===================
+0  BP || 101 ACC || Physical || Ice || 10 PP
+Effect: None
+
+===================
+Max Ooze
+===================
+0  BP || 101 ACC || Physical || Poison || 10 PP
+Effect: None
+
+===================
+Max Geyser
+===================
+0  BP || 101 ACC || Physical || Water || 10 PP
+Effect: None
+
+===================
+Max Airstream
+===================
+0  BP || 101 ACC || Physical || Flying || 10 PP
+Effect: None
+
+===================
+Max Starfall
+===================
+0  BP || 101 ACC || Physical || Fairy || 10 PP
+Effect: None
+
+===================
+Max Wyrmwind
+===================
+0  BP || 101 ACC || Physical || Dragon || 10 PP
+Effect: None
+
+===================
+Max Mindstorm
+===================
+0  BP || 101 ACC || Physical || Psychic || 10 PP
+Effect: None
+
+===================
+Max Rockfall
+===================
+0  BP || 101 ACC || Physical || Rock || 10 PP
+Effect: None
+
+===================
+Max Quake
+===================
+0  BP || 101 ACC || Physical || Ground || 10 PP
+Effect: None
+
+===================
+Max Darkness
+===================
+0  BP || 101 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Max Overgrowth
+===================
+0  BP || 101 ACC || Physical || Grass || 10 PP
+Effect: None
+
+===================
+Max Steelspike
+===================
+0  BP || 101 ACC || Physical || Steel || 10 PP
+Effect: None
+
+===================
+Clangorous Soul
+===================
+0  BP || 101 ACC || Status || Dragon || 5 PP
+Effect: None
+
+===================
+Body Press
+===================
+80  BP || 100 ACC || Physical || Fighting || 10 PP
+Effect: None
+
+===================
+Decorate
+===================
+0  BP || 101 ACC || Status || Fairy || 15 PP
+Effect: None
+
+===================
+Drum Beating
+===================
+80  BP || 100 ACC || Physical || Grass || 10 PP
+Effect: None
+
+===================
+Snap Trap
+===================
+35  BP || 100 ACC || Physical || Grass || 15 PP
+Effect: None
+
+===================
+Pyro Ball
+===================
+120  BP || 90 ACC || Physical || Fire || 5 PP
+Effect: Chance to Burn
+
+===================
+Behemoth Blade
+===================
+100  BP || 100 ACC || Physical || Steel || 5 PP
+Effect: None
+
+===================
+Behemoth Bash
+===================
+100  BP || 100 ACC || Physical || Steel || 5 PP
+Effect: None
+
+===================
+Aura Wheel
+===================
+110  BP || 100 ACC || Physical || Electric || 10 PP
+Effect: None
+
+===================
+Breaking Swipe
+===================
+60  BP || 100 ACC || Physical || Dragon || 15 PP
+Effect: None
+
+===================
+Branch Poke
+===================
+40  BP || 100 ACC || Physical || Grass || 40 PP
+Effect: None
+
+===================
+Overdrive
+===================
+80  BP || 100 ACC || Special || Electric || 10 PP
+Effect: None
+
+===================
+Apple Acid
+===================
+80  BP || 100 ACC || Special || Grass || 10 PP
+Effect: None
+
+===================
+Grav Apple
+===================
+80  BP || 100 ACC || Physical || Grass || 10 PP
+Effect: None
+
+===================
+Spirit Break
+===================
+75  BP || 100 ACC || Physical || Fairy || 15 PP
+Effect: None
+
+===================
+Strange Steam
+===================
+90  BP || 95 ACC || Special || Fairy || 10 PP
+Effect: None
+
+===================
+Life Dew
+===================
+0  BP || 101 ACC || Status || Water || 10 PP
+Effect: None
+
+===================
+Obstruct
+===================
+0  BP || 100 ACC || Status || Dark || 10 PP
+Effect: None
+
+===================
+False Surrender
+===================
+80  BP || 101 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Meteor Assault
+===================
+150  BP || 100 ACC || Physical || Fighting || 5 PP
+Effect: None
+
+===================
+Eternabeam
+===================
+160  BP || 90 ACC || Special || Dragon || 5 PP
+Effect: None
+
+===================
+Steel Beam
+===================
+140  BP || 95 ACC || Special || Steel || 5 PP
+Effect: None
+
+===================
+Expanding Force
+===================
+80  BP || 100 ACC || Special || Psychic || 10 PP
+Effect: None
+
+===================
+Steel Roller
+===================
+130  BP || 100 ACC || Physical || Steel || 5 PP
+Effect: None
+
+===================
+Scale Shot
+===================
+25  BP || 90 ACC || Physical || Dragon || 20 PP
+Effect: None
+
+===================
+Meteor Beam
+===================
+120  BP || 90 ACC || Special || Rock || 10 PP
+Effect: None
+
+===================
+Shell Side Arm
+===================
+90  BP || 100 ACC || Special || Poison || 10 PP
+Effect: Chance to Poison
+
+===================
+Misty Explosion
+===================
+100  BP || 100 ACC || Special || Fairy || 5 PP
+Effect: None
+
+===================
+Grassy Glide
+===================
+60  BP || 100 ACC || Physical || Grass || 20 PP
+Effect: None
+
+===================
+Rising Voltage
+===================
+70  BP || 100 ACC || Special || Electric || 20 PP
+Effect: None
+
+===================
+Terrain Pulse
+===================
+50  BP || 100 ACC || Special || Normal || 10 PP
+Effect: None
+
+===================
+Skitter Smack
+===================
+70  BP || 90 ACC || Physical || Bug || 10 PP
+Effect: None
+
+===================
+Burning Jealousy
+===================
+70  BP || 100 ACC || Special || Fire || 5 PP
+Effect: Chance to Burn
+
+===================
+Lash Out
+===================
+75  BP || 100 ACC || Physical || Dark || 5 PP
+Effect: None
+
+===================
+Poltergeist
+===================
+110  BP || 90 ACC || Physical || Ghost || 5 PP
+Effect: None
+
+===================
+Corrosive Gas
+===================
+0  BP || 100 ACC || Status || Poison || 40 PP
+Effect: None
+
+===================
+Coaching
+===================
+0  BP || 101 ACC || Status || Fighting || 10 PP
+Effect: None
+
+===================
+Flip Turn
+===================
+60  BP || 100 ACC || Physical || Water || 20 PP
+Effect: None
+
+===================
+Triple Axel
+===================
+20  BP || 90 ACC || Physical || Ice || 10 PP
+Effect: None
+
+===================
+Dual Wingbeat
+===================
+40  BP || 90 ACC || Physical || Flying || 10 PP
+Effect: None
+
+===================
+Scorching Sands
+===================
+70  BP || 100 ACC || Special || Ground || 10 PP
+Effect: Chance to Burn
+
+===================
+Jungle Healing
+===================
+0  BP || 101 ACC || Status || Grass || 10 PP
+Effect: None
+
+===================
+Wicked Blow
+===================
+75  BP || 100 ACC || Physical || Dark || 5 PP
+Effect: None
+
+===================
+Surging Strikes
+===================
+25  BP || 100 ACC || Physical || Water || 5 PP
+Effect: None
+
+===================
+Thunder Cage
+===================
+80  BP || 90 ACC || Special || Electric || 15 PP
+Effect: None
+
+===================
+Dragon Energy
+===================
+150  BP || 100 ACC || Special || Dragon || 5 PP
+Effect: None
+
+===================
+Freezing Glare
+===================
+90  BP || 100 ACC || Special || Psychic || 10 PP
+Effect: Chance to Freeze
+
+===================
+Fiery Wrath
+===================
+90  BP || 100 ACC || Special || Dark || 10 PP
+Effect: None
+
+===================
+Thunderous Kick
+===================
+90  BP || 100 ACC || Physical || Fighting || 10 PP
+Effect: None
+
+===================
+Glacial Lance
+===================
+120  BP || 100 ACC || Physical || Ice || 5 PP
+Effect: None
+
+===================
+Astral Barrage
+===================
+120  BP || 100 ACC || Special || Ghost || 5 PP
+Effect: None
+
+===================
+Eerie Spell
+===================
+80  BP || 100 ACC || Special || Psychic || 5 PP
+Effect: None
+
+===================
+Dire Claw
+===================
+60  BP || 100 ACC || Physical || Poison || 15 PP
+Effect: None
+
+===================
+Psyshield Bash
+===================
+70  BP || 90 ACC || Physical || Psychic || 10 PP
+Effect: None
+
+===================
+Power Shift
+===================
+0  BP || 101 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Stone Axe
+===================
+65  BP || 90 ACC || Physical || Rock || 15 PP
+Effect: None
+
+===================
+Springtide Storm
+===================
+100  BP || 80 ACC || Special || Fairy || 5 PP
+Effect: None
+
+===================
+Mystical Power
+===================
+70  BP || 90 ACC || Special || Psychic || 10 PP
+Effect: None
+
+===================
+Raging Fury
+===================
+120  BP || 100 ACC || Physical || Fire || 10 PP
+Effect: None
+
+===================
+Wave Crash
+===================
+120  BP || 100 ACC || Physical || Water || 10 PP
+Effect: None
+
+===================
+Chloroblast
+===================
+150  BP || 95 ACC || Special || Grass || 5 PP
+Effect: None
+
+===================
+Mountain Gale
+===================
+100  BP || 85 ACC || Physical || Ice || 10 PP
+Effect: None
+
+===================
+Victory Dance
+===================
+0  BP || 101 ACC || Status || Fighting || 10 PP
+Effect: None
+
+===================
+Headlong Rush
+===================
+120  BP || 100 ACC || Physical || Ground || 5 PP
+Effect: None
+
+===================
+Barb Barrage
+===================
+60  BP || 100 ACC || Physical || Poison || 10 PP
+Effect: Chance to Poison
+
+===================
+Esper Wing
+===================
+80  BP || 100 ACC || Special || Psychic || 10 PP
+Effect: None
+
+===================
+Bitter Malice
+===================
+75  BP || 100 ACC || Special || Ghost || 10 PP
+Effect: None
+
+===================
+Shelter
+===================
+0  BP || 101 ACC || Status || Steel || 10 PP
+Effect: None
+
+===================
+Triple Arrows
+===================
+90  BP || 100 ACC || Physical || Fighting || 10 PP
+Effect: None
+
+===================
+Infernal Parade
+===================
+60  BP || 100 ACC || Special || Ghost || 15 PP
+Effect: Chance to Burn
+
+===================
+Ceaseless Edge
+===================
+65  BP || 90 ACC || Physical || Dark || 15 PP
+Effect: None
+
+===================
+Bleakwind Storm
+===================
+100  BP || 80 ACC || Special || Flying || 10 PP
+Effect: None
+
+===================
+Wildbolt Storm
+===================
+100  BP || 80 ACC || Special || Electric || 10 PP
+Effect: Chance to Paralyze
+
+===================
+Sandsear Storm
+===================
+100  BP || 80 ACC || Special || Ground || 10 PP
+Effect: Chance to Burn
+
+===================
+Lunar Blessing
+===================
+0  BP || 101 ACC || Status || Psychic || 5 PP
+Effect: None
+
+===================
+Take Heart
+===================
+0  BP || 101 ACC || Status || Psychic || 10 PP
+Effect: None
+
+===================
+Tera Blast
+===================
+80  BP || 100 ACC || Special || Normal || 10 PP
+Effect: None
+
+===================
+Silk Trap
+===================
+0  BP || 101 ACC || Status || Bug || 10 PP
+Effect: None
+
+===================
+Axe Kick
+===================
+120  BP || 90 ACC || Physical || Fighting || 10 PP
+Effect: None
+
+===================
+Last Respects
+===================
+50  BP || 100 ACC || Physical || Ghost || 10 PP
+Effect: None
+
+===================
+Lumina Crash
+===================
+80  BP || 100 ACC || Special || Psychic || 10 PP
+Effect: None
+
+===================
+Order Up
+===================
+80  BP || 100 ACC || Physical || Dragon || 10 PP
+Effect: None
+
+===================
+Jet Punch
+===================
+60  BP || 100 ACC || Physical || Water || 15 PP
+Effect: None
+
+===================
+Spicy Extract
+===================
+0  BP || 101 ACC || Status || Grass || 15 PP
+Effect: None
+
+===================
+Spin Out
+===================
+100  BP || 100 ACC || Physical || Steel || 5 PP
+Effect: None
+
+===================
+Population Bomb
+===================
+20  BP || 90 ACC || Physical || Normal || 10 PP
+Effect: None
+
+===================
+Ice Spinner
+===================
+80  BP || 100 ACC || Physical || Ice || 15 PP
+Effect: None
+
+===================
+Glaive Rush
+===================
+120  BP || 100 ACC || Physical || Dragon || 5 PP
+Effect: None
+
+===================
+Revival Blessing
+===================
+0  BP || 101 ACC || Status || Normal || 1 PP
+Effect: None
+
+===================
+Salt Cure
+===================
+40  BP || 100 ACC || Physical || Rock || 15 PP
+Effect: None
+
+===================
+Triple Dive
+===================
+30  BP || 95 ACC || Physical || Water || 10 PP
+Effect: None
+
+===================
+Mortal Spin
+===================
+30  BP || 100 ACC || Physical || Poison || 15 PP
+Effect: Chance to Poison
+
+===================
+Doodle
+===================
+0  BP || 100 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Fillet Away
+===================
+0  BP || 101 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Kowtow Cleave
+===================
+85  BP || 101 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Flower Trick
+===================
+70  BP || 101 ACC || Physical || Grass || 10 PP
+Effect: None
+
+===================
+Torch Song
+===================
+80  BP || 100 ACC || Special || Fire || 10 PP
+Effect: None
+
+===================
+Aqua Step
+===================
+80  BP || 100 ACC || Physical || Water || 10 PP
+Effect: None
+
+===================
+Raging Bull
+===================
+90  BP || 100 ACC || Physical || Normal || 10 PP
+Effect: None
+
+===================
+Make It Rain
+===================
+120  BP || 100 ACC || Special || Steel || 5 PP
+Effect: None
+
+===================
+Ruination
+===================
+1  BP || 90 ACC || Special || Dark || 10 PP
+Effect: None
+
+===================
+Collision Course
+===================
+100  BP || 100 ACC || Physical || Fighting || 5 PP
+Effect: None
+
+===================
+Electro Drift
+===================
+100  BP || 100 ACC || Special || Electric || 5 PP
+Effect: None
+
+===================
+Shed Tail
+===================
+0  BP || 101 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Chilly Reception
+===================
+0  BP || 101 ACC || Status || Ice || 10 PP
+Effect: None
+
+===================
+Tidy Up
+===================
+0  BP || 101 ACC || Status || Normal || 10 PP
+Effect: None
+
+===================
+Snowscape
+===================
+0  BP || 101 ACC || Status || Ice || 10 PP
+Effect: None
+
+===================
+Pounce
+===================
+50  BP || 100 ACC || Physical || Bug || 20 PP
+Effect: None
+
+===================
+Trailblaze
+===================
+50  BP || 100 ACC || Physical || Grass || 20 PP
+Effect: None
+
+===================
+Chilling Water
+===================
+50  BP || 100 ACC || Special || Water || 20 PP
+Effect: None
+
+===================
+Hyper Drill
+===================
+100  BP || 100 ACC || Physical || Normal || 5 PP
+Effect: None
+
+===================
+Twin Beam
+===================
+40  BP || 100 ACC || Special || Psychic || 10 PP
+Effect: None
+
+===================
+Rage Fist
+===================
+50  BP || 100 ACC || Physical || Ghost || 10 PP
+Effect: None
+
+===================
+Armor Cannon
+===================
+120  BP || 100 ACC || Special || Fire || 5 PP
+Effect: None
+
+===================
+Bitter Blade
+===================
+90  BP || 100 ACC || Physical || Fire || 10 PP
+Effect: None
+
+===================
+Double Shock
+===================
+120  BP || 100 ACC || Physical || Electric || 5 PP
+Effect: None
+
+===================
+Gigaton Hammer
+===================
+160  BP || 100 ACC || Physical || Steel || 5 PP
+Effect: None
+
+===================
+Comeuppance
+===================
+1  BP || 100 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Aqua Cutter
+===================
+70  BP || 100 ACC || Physical || Water || 20 PP
+Effect: None
+
+===================
+Blazing Torque
+===================
+80  BP || 100 ACC || Physical || Fire || 10 PP
+Effect: Chance to Burn
+
+===================
+Wicked Torque
+===================
+80  BP || 100 ACC || Physical || Dark || 10 PP
+Effect: None
+
+===================
+Noxious Torque
+===================
+100  BP || 100 ACC || Physical || Poison || 10 PP
+Effect: Chance to Poison
+
+===================
+Combat Torque
+===================
+100  BP || 100 ACC || Physical || Fighting || 10 PP
+Effect: Chance to Paralyze
+
+===================
+Magical Torqu
+===================
+100  BP || 100 ACC || Physical || Fairy || 10 PP
+Effect: None
+

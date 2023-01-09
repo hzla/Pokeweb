@@ -543,46 +543,49 @@ class Action
 		
 		encounter_count = Encounter.get_all.length
 
-		gym_ids.each_with_index do |gym, i|
-			p "randomizing gym #{i}"
-			lvl = target_gym_viabilities[i]["lvl"] - 6
-			range = target_gym_viabilities[i]["range"]
-			range 
+		if encounter_count > 135
+			gym_ids.each_with_index do |gym, i|
+				p "randomizing gym #{i}"
+				lvl = target_gym_viabilities[i]["lvl"] - 6
+				range = target_gym_viabilities[i]["range"]
+				range 
 
-			rand_enc = Randomizer.create_encounter [range[0] - ai_advantage_low, range[1] - ai_advantage_high ], [1, lvl].max, [gym_types[i]]
-			Randomizer.apply_encounter rand_enc, 136 + i
-			
-			headers[gym.to_s]["unknown_4"] = 192 
-			headers[gym.to_s]["encounter_id"] = 136 + i			
-		end
-
-		remaining_types = all_types - gym_types
-
-		other_ids.each_with_index do |city, i|
-
-			headers[city.to_s]["unknown_4"] = 192
-			headers[city.to_s]["encounter_id"] = 144 + i
-			lvl = nil
-			range = nil
-			type = nil
-			if i < 1
-				lvl = target_gym_viabilities[0]["lvl"] - 6
-				range = target_gym_viabilities[0]["range"]
-				type = Randomizer.get_type_info([gym_types[0]] * 2)[0].sample
-				p type
-			else
-				lvl = target_gym_viabilities[6]["lvl"] - 6
-				range = target_gym_viabilities[6]["range"]
-				type = remaining_types.shuffle!.pop
+				rand_enc = Randomizer.create_encounter [range[0] - ai_advantage_low, range[1] - ai_advantage_high ], [1, lvl].max, [gym_types[i]]
+				Randomizer.apply_encounter rand_enc, 136 + i
+				
+				headers[gym.to_s]["unknown_4"] = 192 
+				headers[gym.to_s]["encounter_id"] = 136 + i			
 			end
 
-			rand_enc = Randomizer.create_encounter [range[0] - ai_advantage_low, range[1] - ai_advantage_high], [1, lvl].max, [type]
-			Randomizer.apply_encounter rand_enc, 144 + i
+
+			remaining_types = all_types - gym_types
+
+			other_ids.each_with_index do |city, i|
+
+				headers[city.to_s]["unknown_4"] = 192
+				headers[city.to_s]["encounter_id"] = 144 + i
+				lvl = nil
+				range = nil
+				type = nil
+				if i < 1
+					lvl = target_gym_viabilities[0]["lvl"] - 6
+					range = target_gym_viabilities[0]["range"]
+					type = Randomizer.get_type_info([gym_types[0]] * 2)[0].sample
+					p type
+				else
+					lvl = target_gym_viabilities[6]["lvl"] - 6
+					range = target_gym_viabilities[6]["range"]
+					type = remaining_types.shuffle!.pop
+				end
+
+				rand_enc = Randomizer.create_encounter [range[0] - ai_advantage_low, range[1] - ai_advantage_high], [1, lvl].max, [type]
+				Randomizer.apply_encounter rand_enc, 144 + i
+			end
 		end
 
 		File.write("#{$rom_name}/json/headers/headers.json", JSON.pretty_generate(headers))
 
-		(0..135).each do |n|
+		(0..134).each do |n|
 			p "randomizing enc file #{n}"
 			lvl =  Encounter.get_max_level n
 			next_gym_lvl = nil
