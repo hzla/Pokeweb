@@ -71,7 +71,7 @@ post '/extract' do
 
 	# params['rom_name'] = params['rom_name']
 	# p params['rom_name']
-	py = "python3"
+	py = "py"
 
 	begin
 		system "#{py} python/header_loader.py #{params['rom_name']}"
@@ -93,7 +93,7 @@ post '/extract' do
 end
 
 post '/rom/save' do
-	py = "python3"
+	py = "py"
 
 	begin
 		save = `#{py} python/rom_saver.py #{$rom_name}`
@@ -190,7 +190,7 @@ post '/update' do
 	end
 	p params['data']
 	
-	py = "python3"
+	py = "py"
 
 	begin
 		retries ||= 0
@@ -364,7 +364,7 @@ post '/batch_update' do
 	
 	Object.const_get(narc_name.capitalize).write_data params["data"], true
 
-	py = "python3"
+	py = "py"
 	
 	begin
 		command = "#{py} python/#{narc_name}_writer.py update #{params['data']['file_names'].join(',')} "
