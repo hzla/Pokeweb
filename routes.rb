@@ -79,7 +79,8 @@ post '/extract' do
 		pid = spawn command
 		Process.detach(pid)
 	rescue
-		py = "python"
+		py = "python3"
+		p "rescued"
 		retry
 	end
 	
@@ -98,7 +99,7 @@ post '/rom/save' do
 	begin
 		save = `#{py} python/rom_saver.py #{$rom_name}`
 	rescue
-		py = "python"
+		py = "python3"
 		retry
 	end
 	
@@ -198,7 +199,7 @@ post '/update' do
 		pid = spawn command
 		Process.detach(pid)
 	rescue
-		py = "python"
+		py = "python3"
 		retry if (retries += 1) < 2 
 	end
 
@@ -371,7 +372,7 @@ post '/batch_update' do
 		pid = spawn command
 		Process.detach(pid)
 	rescue
-		py = "python"
+		py = "python3"
 		retry
 	end
 

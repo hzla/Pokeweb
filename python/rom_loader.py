@@ -330,7 +330,7 @@ if narc_info["base_rom"] == "BW2":
 try:
 	subprocess.run(['py', 'python/parallel.py'], check = True)
 except:
-	subprocess.run(['python', 'python/parallel.py'], check = True)
+	subprocess.run(['python3', 'python/parallel.py'], check = True)
 
 output_tms_json(arm9)
 
