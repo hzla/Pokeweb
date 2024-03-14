@@ -199,7 +199,7 @@ $(document).ready(function() {
 	    var parser = new DOMParser();
 
         // Parse the text
-        var doc = parser.parseFromString(html, "text/html");	
+      var doc = parser.parseFromString(html, "text/html");	
 	    $('#mastersheet').html(html)
 
 	    // save memory

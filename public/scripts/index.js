@@ -35,12 +35,16 @@ $(document).on('click', '#load-save', async function() {
 	      body: formData
 	    })
 
-	    showdown = await response
+	    showdown = await response.text()
 
-	    $('textarea').val((showdown)["showdown"])
+    	$('textarea').val(JSON.parse(showdown)["showdown"])
 	    console.log(showdown)
+
 	    $('textarea').selectRange(0, -1);
+
+	    
 	})
+
 
 
 
