@@ -146,16 +146,14 @@ class Trpok < Pokenarc
 
 		(0..20).to_a.each do |n|
 			lvl_learned = learnset["readable"]["lvl_learned_#{n}"]
-			p lvl_learned
-			p learnset["readable"]["move_id_#{n}"]
 			if lvl_learned && lvl_learned.to_i <= lvl.to_i
 				moves << [learnset["raw"]["move_id_#{n}"],learnset["readable"]["move_id_#{n}"]]
 			end
 		end
-		moves = moves[-4..-1]
+
+		moves = moves.last(4)
 
 		# binding.pry if trainer == 525
-
 		if moves 
 			moves.each_with_index do |move, i|
 				trpok["raw"]["move_#{i + 1}_#{pok_index}"] = move[0]
@@ -164,6 +162,8 @@ class Trpok < Pokenarc
 		else
 			return []
 		end
+
+
 
 		if apply
 			File.open(file_path, "w") { |f| f.write trpok.to_json}

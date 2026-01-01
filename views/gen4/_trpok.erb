@@ -122,9 +122,9 @@
 
 		<% else %>
 			<% begin %>
-				<% moves = Trpok.fill_lvl_up_moves trpok["level_#{trpok_index}"], trdata_index, trpok_index  %>
+				<% moves = Trpok.fill_lvl_up_moves trpok["level_#{trpok_index}"], trdata_index, trpok_index, true  %>
 			<% rescue %>
-				<% p trpok["species_id_#{trpok_index}"] %>
+				<%# <% p trpok["species_id_#{trpok_index}"] %> %>
 			<% end %>
 
 		<% end %>
@@ -153,7 +153,7 @@
 
 			<% end %>	
 		<% else %>
-			<% moves = Trpok.fill_lvl_up_moves trpok["level_#{trpok_index}"], trdata_index, trpok_index  %>
+			<% moves = Trpok.fill_lvl_up_moves trpok["level_#{trpok_index}"], trdata_index, trpok_index, true  %>
 
 			<% moves.each do |m| %>
 				<div class="trpok-item-info"><%= m %></div>
