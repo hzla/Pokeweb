@@ -639,8 +639,6 @@ class Trpok < Pokenarc
 	def self.export_showdown tr_id, trdata, min_ivs, rival_set=0, gen=5
 		if SessionSettings.base_rom == "HGSS"
 			move_names = File.read("#{$rom_name}/texts/moves.txt").split("\n")
-		else
-			move_names = File.read("texts/rp_moves.txt").split("\n")
 		end
 		file_path = "#{$rom_name}/json/trpok/#{tr_id}.json"
 		raw = JSON.parse(File.open(file_path, "r"){|f| f.read})["raw"]
@@ -652,10 +650,6 @@ class Trpok < Pokenarc
 
 		trdata["class"] = trclasses[trdata["class_id"].to_i].gsub("\r", "").strip.gsub(/_\d+/, '').titleize
 		trdata["name"] = trnames[tr_id].strip.gsub("\r", "").strip
-
-		# if trdata["name"] == "Zackary"
-		# 	p trdata["class"]
-		# end
 
 
 		trdata["class"] = "" if !trdata["class"]
